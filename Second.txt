@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
-The second changed file HW
+The second changed one more file HW
+>>>>>>> my-patch
+=======
+The second changed one more file HW
 >>>>>>> my-patch
