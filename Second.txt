@@ -1,1 +1,3 @@
-The second file HW
+
+The second changed file HW
+>>>>>>> my-patch
