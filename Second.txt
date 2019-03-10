@@ -1,0 +1,3 @@
+
+The second changed one more file HW and changed in IDE for conflict
+>>>>>>> my-patch
