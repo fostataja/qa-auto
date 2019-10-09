@@ -15,7 +15,7 @@ public class Cycle {
         }
         for (int l = 3; l < 6; l++){
             for (int j = 12; j >6; j--){
-                System.out.println(l*j);
+                System.out.print(l*j + " ");
             }
             System.out.println('*');
         }
