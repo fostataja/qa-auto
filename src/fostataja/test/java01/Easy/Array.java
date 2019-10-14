@@ -1,4 +1,4 @@
-package fostataja.test.java01;
+package fostataja.test.java01.Easy;
 
 public class Array {
     public static void main (String [] args){
