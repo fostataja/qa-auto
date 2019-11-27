@@ -14,8 +14,8 @@ public class Cat extends Animal {
         return super.getHeight() + 1;
     }
 
-    @Override
-    public String toString(){
-        return super.toString() + "Prrrr";
-    }
+//    @Override
+//    public String toString(){
+//        return super.toString() + "Prrrr";
+//    }
 }
